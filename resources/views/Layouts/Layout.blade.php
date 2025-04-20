@@ -65,7 +65,7 @@
 										<li><a href="index_2.html">Slider Home</a></li>
 									</ul>
 								</li>
-								<li><a href="/product">Products</a></li>
+								<li><a href="/product">Top Products</a></li>
 								<li><a href="/category">Categories</a></li>
 								<li><a href="#">Pages</a>
 									<ul class="sub-menu">
